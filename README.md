@@ -1,4 +1,4 @@
-![Andres Briend — Fullstack Developer - Devops/Cloud Ingenier](https://github.com/user-attachments/assets/0097971a-48cd-4558-ba0f-3e50e01f3834)
+![Andres Briend — Fullstack Developer - Devops/Cloud Ingenier]
 ## Hola, soy Andres
 
 Construyo sistemas - multitenant, self-hosted. 
