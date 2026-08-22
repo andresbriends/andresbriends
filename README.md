@@ -1,8 +1,6 @@
 ## Hola, soy Andrés
 Full Stack Developer | DevOps & Cloud
 
----
-
 Desarrollo soluciones de software de principio a fin, desde el relevamiento y desarrollo hasta el despliegue y mantenimiento, con foco en DevOps, Cloud e infraestructura.
 
 ---
