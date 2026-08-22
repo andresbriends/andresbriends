@@ -3,7 +3,9 @@ Full Stack Developer | DevOps & Cloud
 
 Desarrollo soluciones de software de principio a fin, desde el relevamiento y desarrollo hasta el despliegue y mantenimiento, con foco en DevOps, Cloud e infraestructura.
 
-[Portfolio]([https://juanrz24.dev](https://andresbriendportfolio.netlify.app/)) · [LinkedIn](https://www.linkedin.com/in/andresbriend) · [Email](mailto:andresbriend@gmail.com)
+---
+
+[Portfolio]([mailto:andresbriend@gmail.com](https://andresbriendportfolio.netlify.app/)) · [LinkedIn](https://www.linkedin.com/in/andresbriend) · [Email](mailto:andresbriend@gmail.com)
 
 ---
 
