@@ -1,5 +1,5 @@
 ## Hola, soy Andrés
-Full Stack Developer | DevOps & Cloud
+Cloud & DevOps Engineer | Full Stack Background
 
 Desarrollo soluciones de software de principio a fin, desde el relevamiento y desarrollo hasta el despliegue y mantenimiento, con foco en DevOps, Cloud e infraestructura.
 
@@ -9,6 +9,8 @@ Desarrollo soluciones de software de principio a fin, desde el relevamiento y de
 
 ---
 
-### Stack
+### Cloud & DevOps
+![Cloud & DevOps](https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,ansible,githubactions,linux,bash,nginx&theme=dark)
 
-![Stack](https://skillicons.dev/icons?i=angular,dotnet,react,nodejs,postgres,mysql,linux,docker,githubactions,kubernetes,terraform,aws,python,typescript&theme=dark)
+### Development & Databases
+![Development](https://skillicons.dev/icons?i=dotnet,nodejs,typescript,python,react,angular,postgres,mysql,git&theme=dark)
