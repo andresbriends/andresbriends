@@ -5,7 +5,7 @@ Desarrollo soluciones de software de principio a fin, desde el relevamiento y de
 
 ---
 
-[Portfolio](https://andresbriendportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/andresbriend) · [Email](mailto:andresbriend@gmail.com)
+[Portfolio](https://andresbriendportfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/andresbriend) · [Email](mailto:andresbriend@gmail.com) · [GitHub Anterior](https://github.com/AndresBriend98)
 
 ---
 
